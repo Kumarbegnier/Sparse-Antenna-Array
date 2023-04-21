@@ -1,4 +1,4 @@
-Parameters are defined:
+**Parameters are defined:**
 
 N is the number of antennas in the array
 d is the distance between antennas in wavelengths
